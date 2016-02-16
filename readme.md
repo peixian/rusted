@@ -10,5 +10,5 @@ Coming soon :>
 - [ ] - PCA 
 - [ ] - KNN
 - [ ] - SVM
-- [ ] - Naive Bays
-
+- [ ] - Naive Bayes
+- [ ] - Bagging
