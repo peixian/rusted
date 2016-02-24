@@ -1,14 +1,13 @@
-# Implementations of Various Data Science Algorithms in Rust
+# Dimension Reduction in Rust
 
 ### What?
-This is a repo of the various data science implementations I've written in Rust.
+Implementations of dimensional reduction in rust.
 
 ### Why?
 Coming soon :>
 
 ### TODO:
 - [ ] - PCA 
-- [ ] - KNN
-- [ ] - SVM
-- [ ] - Naive Bayes
-- [ ] - Bagging
+- [ ] - Least Squares Analysis
+- [ ] - Ridge Regression
+
