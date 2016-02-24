@@ -1,5 +1,5 @@
 [package]
-name = "rusty-dimensions"
+name = "rusted"
 version = "0.1.0"
 authors = ["Peixian Wang <peixian@driftingicebergs.com>"]
 
